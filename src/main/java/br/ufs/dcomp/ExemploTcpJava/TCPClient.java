@@ -1,4 +1,4 @@
-package br.ufs.dcomp.TCPExample;
+package br.ufs.dcomp.ExemploTcpJava;
 
 import java.net.*;
 import java.io.*;
